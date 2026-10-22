@@ -2,6 +2,8 @@
 
 > 基于 FabricPvZ，由 AI 开发的快捷作弊模组。
 
+- [FabricPvZ](https://github.com/FabricPvZ)
+
 ## 功能列表
 - **F7**：切换所有卡片无需冷却
 - **F8**：阳光增加 999
