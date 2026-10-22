@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "pvz-quick-cheats",
+  "version": "1.1.0",
+  "name": "PvZ Quick Cheats",
+  "description": "快捷作弊键：F7 切换所有卡片无需冷却，F8 获得 999 阳光，F9 直接判定本关胜利。",
+  "authors": [
+    "Operit"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "cn.enaium.fabricpvz.quickcheats.QuickCheatsMod"
+    ]
+  },
+  "depends": {
+    "java": ">=25",
+    "fabricloader": ">=0.19.0",
+    "pvz-portable": "*",
+    "api-base": ">=1.0.0",
+    "api-events": ">=1.0.0"
+  }
+}
